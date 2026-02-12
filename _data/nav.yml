@@ -30,3 +30,8 @@ items:
 - url: /materials/
   name: Materials
   icon_class: fas fa-book
+
+- url: https://comp3516-hku.github.io/
+  name: Portal
+  icon_class: fas fa-external-link-alt
+  absolute: true
