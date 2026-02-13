@@ -4,7 +4,7 @@ layout: home
 
 Welcome to COMP3516@HKU, AY2025-26!
 
-**This is the non-official site of HKU COMP3516 2026 Spring. This website is maintained *at best effort*. Enrolled HKU students should join [Moodle page](https://moodle.hku.hk/course/view.php?id=116889). In the event of any discrepancies between this page and Moodle, the Moodle page shall prevail.**
+**This is the non-official site of HKU COMP3516 2026 Spring. This website is maintained *at best effort*. Enrolled HKU students should join [Moodle page](https://moodle.hku.hk/course/section.php?id=1446032). In the event of any discrepancies between this page and Moodle, the Moodle page shall prevail.**
 
 
 This course introduces basic concepts, technologies, and applications of the Internet of Things (IoT), with a focus on data analytics. The course covers a range of enabling techniques in sensing, computing, analytics, learning for IoT and connects them to exciting applications in smart homes, healthcare, security, etc. The lectures cover the pipeline of data generation, data acquisition, data transportation, data analysis and learning, and data applications, with various topics from the fundamentals (e.g., signal processing, statistical analysis, machine learning) to real-world systems. Billions of things are connected today, and this course helps students to understand how IoT will evolve into AIoT (Artificial Intelligence of Things).
@@ -113,4 +113,3 @@ These slip days are not for "procrastination." They are designed to give you mor
 **Review Window of Assignment Grading**
 
 Review of Assignment Grading (for any assignments) will ONLY be accepted within TWO weeks after the grading is released. Requests to review after two weeks will be ignored automatically without a reply. 
-
